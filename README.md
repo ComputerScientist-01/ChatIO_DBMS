@@ -92,3 +92,5 @@ If you found this project useful, then please leave a :star: on Github💔.
 
 ## :man: Project Maintained By-
   - [Sandipan Das](https://linkedin.com/in/sandipan0164/)
+  - [Jayvardhan Rathi](https://linkedin.com/in/sandipan0164/)
+  - [Swarnabha Das](https://linkedin.com/in/sandipan0164/)
