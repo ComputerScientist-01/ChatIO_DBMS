@@ -27,6 +27,7 @@ The website is live. Check it out [here](https://chatio64.herokuapp.com)
    - Socket.io
 - Database
    - MongoDB Atlas
+  
 ---
 
 ## 🔥 Screenshots
